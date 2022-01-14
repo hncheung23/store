@@ -1,6 +1,6 @@
 {
-  "name": "store-app",
-  "homepage": "https://hncheung23.github.io/store-app",
+  "name": "store",
+  "homepage": "https://hncheung23.github.io/store",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
